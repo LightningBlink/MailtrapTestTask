@@ -1,0 +1,23 @@
+{
+  "to": [
+    {
+      "email": "rozhkodenisurievich@gmail.com",
+      "name": "Denis Rozhko"
+    }
+  ],
+  "from": {
+    "email": "ivanpoppov88@gmail.com",
+    "name": "Admin"
+  },
+  "attachments": [
+    {
+      "content": "PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KCiAgICA8aGVhZD4KICAgICAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICAgICAgPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJJRT1lZGdlIj4KICAgICAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEuMCI+CiAgICAgICAgPHRpdGxlPkRvY3VtZW50PC90aXRsZT4KICAgIDwvaGVhZD4KCiAgICA8Ym9keT4KCiAgICA8L2JvZHk+Cgo8L2h0bWw+Cg==",
+      "filename": "index.html",
+      "type": "text/html",
+      "disposition": "attachment"
+    }
+  ],
+  "html": "<html><div>text</div></html>",
+  "subject": "Your Example Order Confirmation",
+  "text": "Congratulations on your order no. 1234"
+}

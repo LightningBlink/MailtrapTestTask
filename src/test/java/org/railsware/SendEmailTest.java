@@ -64,8 +64,8 @@ public class SendEmailTest {
                 .setText("dsadsa")
                 .setSubject("fdsfdsfds")
                 .setHtml("<html></html>")
-                .setFrom(User.builder().setName("Denis").setEmail("dsadsa@bk.ru").build())
-                .setTo(Collections.singletonList(User.builder().setName("Oleg").setEmail("dsadsa@bk.ru").build()))
+                .setFrom(User.builder().setName("Admin").setEmail("mailtrap@demomailtrap.com").build())
+                .setTo(Collections.singletonList(User.builder().setName("Admin").setEmail("ivanpoppov88@gmail.com").build()))
                 .setAttachment(Collections.singletonList(attachment))
                 .build();
 
@@ -85,6 +85,4 @@ public class SendEmailTest {
         HttpResponse<String> response = this.mailTrapClient.send(email);
         Assert.assertEquals(response.body(), "{\"errors\":[\"'from' is required\"]}");
     }
-
-
 }

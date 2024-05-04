@@ -1,12 +1,12 @@
 {
   "to": [
     {
-      "email": "rozhkodenisurievich@gmail.com",
-      "name": "Denis Rozhko"
+      "email": "ivanpoppov88@gmail.com",
+      "name": "Admin"
     }
   ],
   "from": {
-    "email": "ivanpoppov88@gmail.com",
+    "email": "mailtrap@demomailtrap.com",
     "name": "Admin"
   },
   "attachments": [

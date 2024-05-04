@@ -1,4 +1,4 @@
-package org.railsware.constraints;
+package org.railsware.constraint;
 
 public class MailTrapConstraints {
 

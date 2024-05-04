@@ -2,7 +2,7 @@ package org.railsware.service;
 
 import com.google.gson.Gson;
 
-import org.railsware.constraints.MailTrapConstraints;
+import org.railsware.constraint.MailTrapConstraints;
 import org.railsware.entity.MailtrapEmail;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
